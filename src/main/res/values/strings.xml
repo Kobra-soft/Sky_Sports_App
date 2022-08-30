@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sky Sports App</string>
+    <string name="app_appbar_header_title">Sky Sports</string>
+    <string name="tab_text_1">TOP STORIES</string>
+    <string name="tab_text_2">MY SPORTS</string>
+    <string name="tab_text_3">FOOTBALL SCORES</string>
+    <string name="tab_text_4">TRANSFER CENTRE</string>
+</resources>
